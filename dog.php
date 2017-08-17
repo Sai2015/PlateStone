@@ -6,7 +6,7 @@ abstract class Animal{
 }
 class Dog extends Animal{
  function cry(){
- echo "汪汪...";
+ echo "呜呜...";
  }
 }
 $abc = new Animal();
